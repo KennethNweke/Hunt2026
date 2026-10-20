@@ -1,2 +1,0 @@
-# HopeClass
-HopeClass1
